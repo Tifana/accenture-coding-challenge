@@ -1,3 +1,7 @@
+This project was created as a coding challenge for Junior Web Developer position at Accenture. 
+All logo or links inside this project are belong to Accenture Company. 
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

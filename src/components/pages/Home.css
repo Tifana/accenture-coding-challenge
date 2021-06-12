@@ -1,7 +1,9 @@
 @import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap");
 
-.home {
-  padding: 18px 120px 100px;
+.home-container {
+  padding: 60px 150px 120px;
+  background-color: #ffffff;
+  box-shadow: 0 2px 8px rgb(0 0 0 / 20%);
 }
 
 h1 {

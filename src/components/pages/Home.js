@@ -6,10 +6,17 @@ const Home = () => {
   return (
     <div>
       <Slide />
-      <div className="home">
+      <div className="home-container">
         <h1>HomePage</h1>
         <p>
           Do excepteur consequat est ea adipisicing commodo proident quis culpa
+          sit. Aliquip dolore nostrud ea cillum anim commodo nostrud magna esse.
+          Fugiat amet quis sit reprehenderit nulla anim. Esse veniam ea irure do
+          ullamco mollit nisi officia eu. Consequat nostrud proident ullamco sit
+          irure aliquip incididunt ea fugiat laboris Lorem. Excepteur laboris
+          sint culpa reprehenderit labore proident minim aute magna. Nulla enim
+          qui duis labore ullamco esse aliqua ex dolor magna et mollit. Do
+          excepteur consequat est ea adipisicing commodo proident quis culpa
           sit. Aliquip dolore nostrud ea cillum anim commodo nostrud magna esse.
           Fugiat amet quis sit reprehenderit nulla anim. Esse veniam ea irure do
           ullamco mollit nisi officia eu. Consequat nostrud proident ullamco sit

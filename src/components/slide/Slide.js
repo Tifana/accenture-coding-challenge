@@ -1,18 +1,21 @@
 import React, { Component } from "react";
 import Carousel from "react-elastic-carousel";
-import cp1 from "./cp1.jpg";
+import pic1 from "./images/pic1.jpg";
+import pic2 from "./images/pic2.jpg";
+import pic3 from "./images/pic3.jpg";
 import "./Slide.css";
 
 class Slide extends Component {
-  state = {
+  pic = {
     items: [
-      { id: 1, image: cp1 },
-      { id: 2, image: cp1 },
+      { id: 1, image: pic1 },
+      { id: 2, image: pic2 },
+      { id: 2, image: pic3 },
     ],
   };
 
   render() {
-    const { items } = this.state;
+    const { items } = this.pic;
     return (
       <div className="slide">
         <Carousel>
